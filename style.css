@@ -3,7 +3,8 @@
     font-family: "Roboto";
 } */
 body{
-    background-color: rgb(170, 170, 170);
+    /*background-color: rgb(170, 170, 170);*/
+    background-color: white;
 }
 /*eviter le scrole à l'arriere du nav elle est créée pour être ajouter au js*/
 .noscrol{
@@ -18,7 +19,7 @@ body{
 
 
 header{
-    background-color: #353535;
+    background-color: rgb(61, 61, 159);
     height: 60px;
     width: 100%;
     top: 0;
