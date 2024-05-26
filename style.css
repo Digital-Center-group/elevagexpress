@@ -232,3 +232,26 @@ span{
 .active{
     color: rgb(255, 191, 73);
 }
+
+.bienvenu{
+    font-weight: bold;
+    text-align: center;
+    color: blue;
+}
+.description{
+    font-weight: bold;
+    text-align: center;
+    color: blue;
+    margin-top: 10%;
+}
+.pourquoiTitle{
+    font-weight: bold;
+    text-align: center;
+    color: blue;
+}
+.pourquoi{
+    text-align: center;
+}
+.descripText{
+    text-align: center;
+}
