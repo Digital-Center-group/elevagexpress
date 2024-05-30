@@ -159,7 +159,9 @@ footer{
     opacity: 0;
 }
 
-
+.phone{
+    display: none;
+}
 
 @media (max-width: 800px){
     .hamburger{
@@ -190,6 +192,17 @@ footer{
     .nav-ul a:hover{
         animation: none;
     }
+    .phone{
+        display: flex;
+    }
+    .custom-height-phone {
+        height: 200px; /* Ajustez cette valeur selon vos besoins */
+        object-fit: cover; /* Pour garder le rapport d'aspect */
+    }
+    .versionOrdi{
+        display: none;
+    }
+    
 }
 
 
