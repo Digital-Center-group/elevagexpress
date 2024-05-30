@@ -256,3 +256,9 @@ span{
 .descripText{
     text-align: center;
 }
+
+
+.custom-height {
+    height: 400px; /* Ajustez cette valeur selon vos besoins */
+    object-fit: cover; /* Pour garder le rapport d'aspect */
+}
